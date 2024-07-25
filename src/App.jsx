@@ -91,8 +91,6 @@ function App() {
         break
       }
     }
-
-    console.log({ winner })
   }
 
 
