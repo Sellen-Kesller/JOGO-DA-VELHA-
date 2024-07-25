@@ -115,4 +115,3 @@ function App() {
 
 export default App
 
-olar bill 25072024
